@@ -1,1 +1,1 @@
-The source code is in assets folder
+Codes for the game are in Assets folder
